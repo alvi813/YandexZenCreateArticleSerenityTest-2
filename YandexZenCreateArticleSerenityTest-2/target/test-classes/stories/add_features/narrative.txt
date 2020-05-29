@@ -1,0 +1,5 @@
+Add features
+In order to develop YandexZen
+As a YandexZen owner
+I want to be able to add new features on the article creation page.
+These features will expand the user's capabilities when creating an article

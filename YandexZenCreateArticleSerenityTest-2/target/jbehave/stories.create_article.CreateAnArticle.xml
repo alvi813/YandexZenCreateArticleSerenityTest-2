@@ -1,0 +1,7 @@
+<story path="stories/create_article/CreateAnArticle.story" title="Create an article on YandexZen">
+<scenario keyword="Scenario:" title="Creating an article in YandexZen">
+<step outcome="successful">Given the user is on the Publication page</step>
+<step outcome="successful">When the user create an article with title &apos;This is the Article Title&apos;, with text &apos;This is the article text&apos;, with image and with caption under the image &apos;This is the image caption&apos;</step>
+<step outcome="successful">Then they should see the created YandexZen article with title &apos;This is the Article Title&apos;, with text &apos;This is the article text&apos;, with image and with caption under the image &apos;This is the image caption&apos;</step>
+</scenario>
+</story>

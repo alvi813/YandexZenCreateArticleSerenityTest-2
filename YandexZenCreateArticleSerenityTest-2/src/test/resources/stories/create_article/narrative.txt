@@ -1,0 +1,4 @@
+Creating an article
+To create my own article
+As a user
+I want to be able to add text and to add images to an article

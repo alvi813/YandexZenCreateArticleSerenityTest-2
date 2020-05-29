@@ -1,0 +1,5 @@
+org\example\steps\CreatingArticleSteps.class
+org\example\steps\serenity\EndUserSteps.class
+org\example\AcceptanceTestSuite.class
+org\example\pages\ArticleCreationPage.class
+org\example\pages\PublicationsPage.class
